@@ -1,0 +1,15 @@
+# Flatigo
+
+> Nabídky nemovitostí kanceláře Flatigo.
+
+- Web: http://flatigo.cz/
+
+## Nabídky (8)
+- Prodej bytu 3+kk 57 m² — Neratovice, 5 399 000 Kč: prodej-bytu-3-kk-57-m2-142549068/
+- Prodej bytu 2+kk 44 m² — Michle, 7 399 000 Kč: prodej-bytu-2-kk-44-m2-1719607372/
+- Prodej bytu 4+kk 83 m² — Stodůlky, 9 399 000 Kč: prodej-bytu-4-kk-83-m2-2242781260/
+- Prodej bytu 4+kk 80 m² — Černý Most, 8 999 000 Kč: prodej-bytu-4-kk-80-m2-2944172108/
+- Prodej bytu 2+kk 40 m² — Hostivař, 6 599 000 Kč: prodej-bytu-2-kk-40-m2-3338723404/
+- Prodej bytu 2+kk 39 m² — Žižkov, 7 399 000 Kč: prodej-bytu-2-kk-39-m2-3365584972/
+- Prodej bytu 3+kk 53 m² — Jižní Předměstí, 5 349 000 Kč: prodej-bytu-3-kk-53-m2-544391244/
+- Prodej bytu 2+kk 38 m² — Vršovice, 7 149 000 Kč: prodej-bytu-2-kk-38-m2-879288396/
